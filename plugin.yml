@@ -1,0 +1,7 @@
+name: Modomtx
+version: 1.0
+author: parlabarbedeMerlin
+main: fr.merlin.modomtx.Main
+commands:
+  pkclafoteamtx:
+    permission: use.celafoteamtx
